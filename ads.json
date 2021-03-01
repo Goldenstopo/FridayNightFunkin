@@ -3,22 +3,22 @@
 
 		"AdsController": {
 			
-			"NetworkAds": "unity",
+			"NetworkAds": "facebook",
 
-			"BannerAdmob": "ca-app-pub-1237067692403283/6881715309",
-			"InterstitialAdmob1": "ca-app-pub-1237067692403283/3907411066",
-			"InterstitialAdmob2": "ca-app-pub-1237067692403283/1629388628",
-			"InterstitialAdmob3": "ca-app-pub-1237067692403283/5028921041",
-			"InterstitialAdmob4": "ca-app-pub-1237067692403283/7463512690",
-			"NativeAdmob": "ca-app-pub-1237067692403283/4837349353",
+			"BannerAdmob": "ca-app-pub-8651407519878598/8951756123",
+			"InterstitialAdmob1": "ca-app-pub-8651407519878598/7426921468",
+			"InterstitialAdmob2": "ca-app-pub-8651407519878598/7426921468",
+			"InterstitialAdmob3": "ca-app-pub-8651407519878598/7426921468",
+			"InterstitialAdmob4": "ca-app-pub-8651407519878598/7426921468",
+			"NativeAdmob": "ca-app-pub-8651407519878598/8876283246",
 
-			"BannerFacebook": "123774966397598_123775156397579",
-			"InterstitialFacebook1": "123774966397598_123775576397537",
-			"InterstitialFacebook2": "123774966397598_123775979730830",
-			"InterstitialFacebook3": "123774966397598_123776376397457",
-			"InterstitialFacebook4": "123774966397598_123776696397412",
-			"NativeFacebook": "123774966397598_123777036397391",
-			"BannerNativeFacebook": "123774966397598_123777426397352",
+			"BannerFacebook": "1272059374328684_272059687661986",
+			"InterstitialFacebook1": "272059374328684_272059777661977",
+			"InterstitialFacebook2": "272059374328684_272060294328592",
+			"InterstitialFacebook3": "272059374328684_272060624328559",
+			"InterstitialFacebook4": "272059374328684_272060780995210",
+			"NativeFacebook": "272059374328684_272060940995194",
+			"BannerNativeFacebook": "272059374328684_272061130995175",
 			
 			"unityGameID":"4009875",
 			"BannerUnity":"diamondspamulabanner",
@@ -28,8 +28,8 @@
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
 			"LinkCpa" : "http://sweeps-everyday.com/Netflix/",
 			
-			"watchNow": false,
-			"Rating": false
+			"watchNow": true,
+			"Rating": true
 			
 		}
 
