@@ -5,12 +5,12 @@
 			
 			"NetworkAds": "facebook",
 
-			"BannerAdmob": "ca-app-pub-1661407519878598/8951756123",
-			"InterstitialAdmob1": "ca-app-pub-1661407519878598/7426921468",
-			"InterstitialAdmob2": "ca-app-pub-1661407519878598/7093687460",
-			"InterstitialAdmob3": "ca-app-pub-1661407519878598/8215197443",
-			"InterstitialAdmob4": "ca-app-pub-1661407519878598/5318405514",
-			"NativeAdmob": "ca-app-pub-1661407519878598/8876283246",
+			"BannerAdmob": "ca-app-pub-6851407519878598/8951756123",
+			"InterstitialAdmob1": "ca-app-pub-6851407519878598/7426921468",
+			"InterstitialAdmob2": "ca-app-pub-6851407519878598/7093687460",
+			"InterstitialAdmob3": "ca-app-pub-6851407519878598/8215197443",
+			"InterstitialAdmob4": "ca-app-pub-6851407519878598/5318405514",
+			"NativeAdmob": "ca-app-pub-6851407519878598/8876283246",
 
 			"BannerFacebook": "1272059374328684_272059687661986",
 			"InterstitialFacebook1": "272059374328684_272059777661977",
@@ -20,9 +20,9 @@
 			"NativeFacebook": "272059374328684_272060940995194",
 			"BannerNativeFacebook": "272059374328684_272061130995175",
 			
-			"unityGameID":"4009875",
-			"BannerUnity":"diamondspamulabanner",
-			"InterstitialUnity":"diamondspamulainter",
+			"unityGameID":"4036809",
+			"BannerUnity":"fridaypamulabanner",
+			"InterstitialUnity":"fridaypamulainter",
 						
 			"Cpa": false,
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
